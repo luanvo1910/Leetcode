@@ -1,10 +1,12 @@
-// 3. Longest substring without repeateding characters
-// Given a string s, find the length of the longest substring without repeating characters.
+/**
+ * 3. Longest substring without repeateding characters
+Given a string s, find the length of the longest substring without repeating characters.
 
-// Example:
-// Input: s = "abcabcbb"
-// Output: 3
-// Explanation: The answer is "abc", with the length of 3.
+Example:
+Input: s = "abcabcbb"
+Output: 3
+Explanation: The answer is "abc", with the length of 3.
+*/
 
 /**
  * @param {string} s
